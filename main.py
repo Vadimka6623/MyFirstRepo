@@ -1,1 +1,1 @@
-print("Hello from GitLab2") 
+print("Изменённая версия программы") 
